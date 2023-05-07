@@ -38,23 +38,39 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          id: 'default',
+          routeBasePath: 'docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/DenRayk/e-portfolio_docusaurus/tree/master/eportfolio/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/DenRayk/e-portfolio_docusaurus/tree/master/eportfolio/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-eportfolio',
+        path: 'docs-eportfolio',
+        routeBasePath: 'docs-eportfolio',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
     ],
   ],
 
@@ -77,8 +93,9 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs-eportfolio/intro', label: 'e-Portfolio', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/DenRayk/e-portfolio_docusaurus',
             label: 'GitHub',
             position: 'right',
           },
