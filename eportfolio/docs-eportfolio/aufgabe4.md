@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Aufgabe 3
+# Aufgabe 4
 
 - [ ] Erstellt eine neue Version 2.0.0 
