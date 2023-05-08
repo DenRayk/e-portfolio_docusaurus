@@ -3,6 +3,11 @@
 Welcome to my e-Portfolio about Docusaurus! This repository contains the source code and documentation for my e-Portfolio at the DHBW Karlsruhe.
 
 ## Getting Started
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/DenRayk/e-portfolio_docusaurus/tree/master/eportfolio?file=README.md)
+
+### OR
+
 To get started with my e-Portfolio, simply clone this repository and install the necessary dependencies:
 
 ```sh
