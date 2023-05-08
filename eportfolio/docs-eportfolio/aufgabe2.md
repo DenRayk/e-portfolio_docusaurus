@@ -8,4 +8,4 @@ sidebar_position: 2
 
 - [ ] Gebt der Seite eine **Überschrift**.
 
-- [ ] Legt auf der Seite ein Block in der Programmiersprache **Java** an, der eine for-Schleife zeigt.
+- [ ] Legt auf der Seite ein **Code Block** in der Programmiersprache **Java** an, der eine for-Schleife zeigt.
