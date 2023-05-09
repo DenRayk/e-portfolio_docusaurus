@@ -4,8 +4,8 @@ sidebar_position: 2
 
 # Aufgabe 2
 
-- [ ] Legt eine **Markdown oder React Standalone-Seite** an, die über die URL **localhost:3000/eportfolio/dhbw** erreichbar ist.
+- [ ] Legt eine **Markdown** an, die über die URL **[https://localhost:3000/eportfolio/dhbw](https://localhost:3000/eportfolio/dhbw)** ereichbar ist.
 
-- [ ] Gebt der Seite eine **Überschrift**.
+- [ ] Gebt der Seite die **Überschrift "Java"** .
 
-- [ ] Legt auf der Seite ein **Code Block** in der Programmiersprache **Java** an, der eine for-Schleife zeigt.
+- [ ] Legt auf der Seite ein **Code Block** in der Programmiersprache **Java** an, der eine beliebige Schleife in Java zeigt.
