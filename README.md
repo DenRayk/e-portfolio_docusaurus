@@ -12,7 +12,7 @@ To get started with my e-Portfolio, simply clone this repository and install the
 
 ```sh
 git clone https://github.com/DenRayk/e-portfolio_docusaurus.git
-cd ./e-portfolio_docusaurus/eportfolio
+cd ./eportfolio
 npm install
 ```
 Once the dependencies are installed, you can start the development server by running:
