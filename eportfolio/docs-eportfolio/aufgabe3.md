@@ -8,4 +8,4 @@ sidebar_position: 3
 
 - [ ] Erstellt einen neuen Blogeintrag mit euch als Autor und dem heutigen Datum
 
-- [] Gebt dem Blog die Tags: eportfolio, software-engineering
+- [ ] Gebt dem Blog die Tags: eportfolio, software-engineering
